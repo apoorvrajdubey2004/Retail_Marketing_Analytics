@@ -1,0 +1,46 @@
+Column_Name,Data_Type,Non_Null_Count,Null_Count,Unique_Values,Sample_Value
+Order_ID,object,10000,0,10000,ORD000001
+Order_Date,datetime64[ns],10000,0,10000,2022-01-01 00:00:00
+Ship_Date,datetime64[ns],10000,0,10000,2022-01-02 00:00:00
+Customer_ID,object,10000,0,1986,CUST1127
+Customer_Name,object,10000,0,1982,Customer_1275
+Segment,category,10000,0,3,Consumer
+Region,category,10000,0,4,Central
+Product_ID,object,10000,0,499,PROD0215
+Product_Category,category,10000,0,4,Office Supplies
+Product_Sub_Category,category,10000,0,8,Appliances
+Product_Name,object,10000,0,499,Product_2
+Sales,float64,10000,0,9673,235.92643984491033
+Quantity,int32,10000,0,9,1
+Discount,float64,10000,0,5,0.0
+Profit,float64,10000,0,9886,39.77540124260096
+Shipping_Cost,float64,10000,0,10000,8.15725061844054
+Order_Priority,category,10000,0,4,High
+Unit_Price,float64,10000,0,9681,235.92643984491033
+Revenue,float64,10000,0,9673,235.92643984491033
+Sales_Original,float64,10000,0,10000,235.92643984491033
+Profit_Original,float64,10000,0,9971,39.77540124260096
+Year,int32,10000,0,2,2022
+Month,int32,10000,0,12,1
+Month_Name,object,10000,0,12,January
+Quarter,int32,10000,0,4,1
+Day,int32,10000,0,31,1
+Day_of_Week,int32,10000,0,7,5
+Day_Name,object,10000,0,7,Saturday
+Week_of_Year,UInt32,10000,0,52,52
+Is_Weekend,int64,10000,0,2,1
+Is_Month_Start,int64,10000,0,2,1
+Is_Month_End,int64,10000,0,2,0
+Discount_Amount,float64,10000,0,5765,0.0
+Net_Revenue,float64,10000,0,9677,235.92643984491033
+Profit_Margin,float64,10000,0,9993,16.859238527376537
+Profit_Ratio,float64,10000,0,9993,0.16859238527376538
+Delivery_Days,int64,10000,0,1,1
+Delivery_Category,category,10000,0,1,Same/Next Day
+Customer_Order_Count,int64,10000,0,14,5
+Is_Repeat_Customer,int64,10000,0,2,1
+Product_Total_Sales,float64,10000,0,499,3237.383975826766
+Product_Avg_Sales,float64,10000,0,499,119.90311021580614
+Product_Order_Count,int64,10000,0,26,27
+Sales_Category,category,10000,0,4,Very High
+Season,object,10000,0,4,Winter

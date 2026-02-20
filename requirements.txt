@@ -1,0 +1,31 @@
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Dashboard
+dash>=2.11.0
+dash-bootstrap-components>=1.4.0
+
+# Utilities
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Market Basket Analysis
+mlxtend>=0.22.0
+
+# Date/Time
+python-dateutil>=2.8.0
+
+# Optional: For better performance
+# pip install numba
+# pip install bottleneck

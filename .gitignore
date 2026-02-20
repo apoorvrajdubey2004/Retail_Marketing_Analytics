@@ -1,0 +1,45 @@
+# Data files - keep processed, exclude raw
+data/raw/*
+!data/raw/.gitkeep
+
+# Large output files
+outputs/figures/*.html
+!outputs/figures/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Kaggle
+kaggle.json
+
+# Large dashboard files
+*.pbix
+*.twb
+*.twbx

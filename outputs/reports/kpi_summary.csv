@@ -1,0 +1,34 @@
+KPI,Value
+Total_Revenue,1078670.9794753478
+Total_Orders,10000
+Avg_Order_Value,107.86709794753477
+Total_Units_Sold,50065
+Total_Profit,198274.85464698687
+Profit_Margin_Pct,18.381402524004613
+Total_Customers,1986
+Revenue_Per_Customer,543.1374519009807
+Avg_Orders_Per_Customer,5.0352467270896275
+Repeat_Customers,1912
+Repeat_Customer_Rate,96.27391742195368
+One_Time_Customers,74
+Total_SKUs,499
+Avg_Items_Per_Order,5.0065
+Total_Categories,4
+Avg_Customer_Lifetime_Value,7521.2860619986195
+Customer_Acquisition_Cost,50
+CLV_to_CAC_Ratio,150.4257212399724
+Profit_Per_Customer,99.83628129254123
+CAC_Payback_Months,4.418770960463141
+Churned_Customers,216
+Churn_Rate,10.876132930513595
+Retention_Rate,89.12386706948641
+Avg_Days_Since_Purchase,81.60574018126889
+Analysis_Start_Date,2022-01-01
+Analysis_End_Date,2023-02-21
+Analysis_Period_Days,416
+Avg_Daily_Revenue,2592.9590852772785
+Avg_Daily_Orders,24.03846153846154
+At Risk_Count,1062
+At Risk_Percentage,53.47432024169184
+VIP Customers_Count,924
+VIP Customers_Percentage,46.52567975830816
